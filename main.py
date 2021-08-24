@@ -18,20 +18,23 @@ FayasNoushad = Client(
 )
 
 START_TEXT = """
-Hello {}, I am a google translator telegram bot.
+Hello {},Saya adalah bot telegram penerjemah google.
 
-Made by @FayasNoushad
+>> Saya dapat menerjemahkan dari bahasa apa pun ke bahasa apa pun insya' Allah
+
+Jangan lupa untuk mendoakan kemenangan Islam dan kaum muslimin
+#Annajiyah_Media_Center
 """
 HELP_TEXT = """
-- Just send a text with language code
+- Cukup kirim teks dengan kode bahasa
 
-example :- `This is a sample text | ml`
+contoh :- `Teks yang ingin diterjemahkan | id`
 
 Made by @FayasNoushad
 """
 ABOUT_TEXT = """
-- **Bot :** `Translator Bot`
-- **Creator :** [Fayas](https://telegram.me/TheFayas)
+- **Bot :** `Terjemah Google Bot`
+- **Creator :** [Fayas](https://telegram.me/joincontact
 - **Channel :** [Fayas Noushad](https://telegram.me/FayasNoushad)
 - **Source :** [Click here](https://github.com/FayasNoushad/Translator-Bot)
 - **Language :** [Python3](https://python.org)
